@@ -20,5 +20,7 @@ namespace TestAdoToolbox
                 SectionName = (string)reader["SectionName"]
             };
         }
+
+        public int test { get; set; }
     }
 }
