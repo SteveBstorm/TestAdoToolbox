@@ -21,6 +21,5 @@ namespace TestAdoToolbox
             };
         }
 
-        public int test { get; set; }
     }
 }
